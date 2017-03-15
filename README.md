@@ -3,7 +3,6 @@ Hackaton en Zaragoza uCodeByadidas2017, realizado por el grupo de trabajo Workin
 
 En este hackaton se ha realizado un análisis sobre un dataset proporcionado por la empresa Inycom sobre aerolíneas. Se ha realizado un preprocesamiento usando R, RStudio, junto con la herramiento CartoDB para las visualizaciones gráficas. El dataset no está disponible debido a la privacidad de los datos. 
 
-El hackaton tuvo lugar en Zaragoza durante los das 10, 11 y 12 de Marzo de 2017. 
 
 Para la visualización de datos se hizo uso de la herramienta CartoDB:
 
@@ -15,4 +14,4 @@ alt="IMAGE ALT TEXT HERE" width="580" height="480" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/3DSj0-IKLNQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="580" height="480" border="5" /></a>
 
-
+El hackaton tuvo lugar en Zaragoza durante los das 10, 11 y 12 de Marzo de 2017. 
